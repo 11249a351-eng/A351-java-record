@@ -1,0 +1,11 @@
+Invalid Amount : 20.0 is not a multiple of 100
+Balance after attempt : 5000.0
+
+Dispensed 3500.0, balance 1500.0
+Balance after attempt : 1500.0
+
+Low Balance : Balance is only 1500.0
+Balance after attempt : 1500.0
+
+Dispensed 1500.0, balance 0.0
+Balance after attempt : 0.0
