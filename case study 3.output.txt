@@ -1,0 +1,4 @@
+UPI        charge     0.00 total   75000.00
+Card       charge  1500.00 total   76500.00
+Cash       charge    20.00 total   75020.00
+NetBanking charge    12.00 total   75012.00
