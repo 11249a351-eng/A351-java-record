@@ -1,0 +1,6 @@
+NAME       DAYS     BILL
+Aravind      28  2380.00
+Divya        30  2550.00
+Karthik      25  1912.50
+Total collection = Rs. 6842.50
+Highest bill = Divya (Rs. 2550.00)
