@@ -1,0 +1,7 @@
+Length : 17
+Upper case : SCSVMV UNIVERSITY
+First six : SCSVMV
+Position of U: 7
+Replace S->X: XCXVMV Univerxity
+Original : SCSVMV University
+madam is a palindrome
