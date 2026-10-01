@@ -1,0 +1,2 @@
+Circle area = 78.54
+Rect area = 24.00
