@@ -1,0 +1,3 @@
+With synchronized : Final count = 20000 (always correct)
+Now delete the word synchronized and run again:
+Without synchronized : Final count = 17342 (wrong, and different each time)
