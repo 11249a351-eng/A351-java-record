@@ -1,0 +1,3 @@
+Kumar -> Teacher
+Selvam -> Driver
+Raj -> Staff
