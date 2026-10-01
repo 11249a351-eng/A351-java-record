@@ -1,0 +1,12 @@
+Counter-1 booked seat. Left = 9
+Counter-2 booked seat. Left = 8
+Counter-3 booked seat. Left = 7
+Counter-1 booked seat. Left = 6
+Counter-2 booked seat. Left = 5
+Counter-3 booked seat. Left = 4
+Counter-1 booked seat. Left = 3
+Counter-2 booked seat. Left = 2
+Counter-3 booked seat. Left = 1
+Counter-1 booked seat. Left = 0
+Counter-2 booked seat. Left = -1
+Counter-3 booked seat. Left = -2
