@@ -1,0 +1,6 @@
+1 row inserted.
+Run FetchData again:
+REG NAME MARKS
+101 Aravind 78
+102 Divya 91
+103 Karthik 45
