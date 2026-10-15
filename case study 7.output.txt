@@ -1,0 +1,12 @@
+Skipped invalid record (non-numeric mark): 104,InvalidUser,ABC
+
+result.txt successfully created.
+Summary: Passed 2, Failed 1
+
+--- Contents of result.txt ---
+Aravind PASS
+Divya PASS
+Karthik FAIL
+Passed : 2
+Failed : 1
+Average : 71.33
