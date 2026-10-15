@@ -1,0 +1,7 @@
++---------------------------+
+| User Name [ cse ] |
+| Password [ **** ] |
+| [ Login ] |
+| Login successful |
++---------------------------+
+Typing anything else gives: Invalid user or password
