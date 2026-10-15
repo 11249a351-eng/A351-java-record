@@ -1,0 +1,3 @@
+BorderDemo : NORTH across the top, SOUTH across the bottom,
+WEST and EAST at the sides, CENTER fills the middle.
+Enlarge the window - only CENTER grows.
