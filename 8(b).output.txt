@@ -1,0 +1,8 @@
+init()
+start()
+paint()
+stop() <- window minimised
+start() <- window restored
+paint()
+stop() <- window closed
+destroy()
