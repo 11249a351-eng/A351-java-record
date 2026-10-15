@@ -1,0 +1,48 @@
+=== STUDENT MANAGEMENT MENU ===
+1. Search Student
+2. Update Marks
+3. Delete Student
+4. Display All in Swing JTable
+5. Exit
+Enter choice (1-5): 1
+Enter Register Number to Search: 102
+Reg No: 102      | Name: Divya        | Marks: 91
+
+=== STUDENT MANAGEMENT MENU ===
+1. Search Student
+2. Update Marks
+3. Delete Student
+4. Display All in Swing JTable
+5. Exit
+Enter choice (1-5): 2
+Enter Register Number to Update: 102
+Enter New Marks: 95
+1 row(s) affected.
+
+=== STUDENT MANAGEMENT MENU ===
+1. Search Student
+2. Update Marks
+3. Delete Student
+4. Display All in Swing JTable
+5. Exit
+Enter choice (1-5): 3
+Enter Register Number to Delete: 101
+1 row(s) affected.
+
+=== STUDENT MANAGEMENT MENU ===
+1. Search Student
+2. Update Marks
+3. Delete Student
+4. Display All in Swing JTable
+5. Exit
+Enter choice (1-5): 4
+Opening Swing JTable GUI window...
+
+=== STUDENT MANAGEMENT MENU ===
+1. Search Student
+2. Update Marks
+3. Delete Student
+4. Display All in Swing JTable
+5. Exit
+Enter choice (1-5): 5
+Exiting program. Goodbye!
