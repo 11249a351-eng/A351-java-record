@@ -1,0 +1,3 @@
+Name,Branch,Gender,Hostel
+Aravind,CSE,Male,Yes
+Divya,IT,Female,No
